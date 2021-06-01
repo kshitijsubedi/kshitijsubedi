@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kshitij Subedi</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
+<img src="https://kshitijsubedi.github.io/kshitijsubedi/assets/peace.gif" alt="peace" width='100%' height='275'/>
 
 Skills: REACT / JS / HTML / CSS / PYTHON 
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Containerization. 
 - 💬 Ask me about -> Web Development || AI/ ML  
