@@ -3,8 +3,9 @@
   position: Kathmandu; 
   height: 168cm; 
   display: boy; 
-  background: Full Stack Developer; 
-  color: purple;
+  position: Full Stack Developer; 
+  color: black;
+  flex: 1,
 }
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitijsubedi&show_icons=true&theme=dark&count_private=true&hide_border=true)  
