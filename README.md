@@ -4,13 +4,13 @@ let kshitij = {
     greetings: "नमस्ते (Namaste)",
     location: "Nepal 🇳🇵",
     pronouns: "He" || "Him",
-    lang: ["Javascript", "Python"],
+    lang: ["Javascript","Typescript", "Python"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"]
         },
         frontEnd: {
-            js: ["React", "VueJS"],
+            js: ["VueJS","ReactJS"],
             ui: ["Bootstrap", "AntJS", "SASS"] 
         },
         mobile: {
@@ -20,8 +20,8 @@ let kshitij = {
             js: ["NestJS", "Electron","Strapi"],
             python: ["Django"]
         },
-        devOps: ["AWS", "Docker🐳", "Kubernetes", "Nginx"],
-        databases: ["mongo", "Postgres", "sqlite"],
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
+        databases: ["Mongo", "Postgres", "sqlite"],
         ai_ml:["TensorFlow","PyTorch"],
         misc: ["Firebase"]
     },
