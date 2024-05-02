@@ -3,27 +3,7 @@ let kshitij = {
     name: "क्षितिज सुवेदी",
     greetings: "नमस्ते (Namaste)",
     location: "Nepal 🇳🇵",
-    lang: ["Javascript","Typescript", "Python"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"]
-        },
-        frontEnd: {
-            js: ["VueJS","ReactJS"],
-            ui: ["Bootstrap", "AntJS", "SASS"] 
-        },
-        mobile: {
-            cross: ["React Native"]
-        },
-        framework: {
-            js: ["NestJS", "Electron","Strapi"],
-            python: ["Django"]
-        },
-        devOps: ["AWS", "Docker🐳", "Kubernetes"],
-        databases: ["Mongo", "Postgres", "sqlite"],
-        ai_ml:["TensorFlow","PyTorch"],
-        misc: ["Firebase"]
-    },
+    lang: ["Javascript","Python"],
 };
 console.log(kshitij)
 ```
