@@ -3,7 +3,6 @@ let kshitij = {
     name: "क्षितिज सुवेदी",
     greetings: "नमस्ते (Namaste)",
     location: "Nepal 🇳🇵",
-    pronouns: "He" || "Him",
     lang: ["Javascript","Typescript", "Python"],
     technologies: {
         backEnd: {
