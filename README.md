@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://www.cameronsworld.net/img/content/19/28.gif"/>
-  <img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/hello.gif" />
+  <img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/hello.gif" />
   <img src="https://www.cameronsworld.net/img/content/19/28.gif"/>
 </div>
 <h3 align="center">
@@ -29,15 +29,18 @@
 </picture>
 </div>
 
+<br/>
 <div align="center">
 <img src="https://www.cameronsworld.net/img/content/26/container/7.png"/>
 </div>
 <!-- Footer -->
+<br/>
 
 <div align="center">
   <img src="https://www.cameronsworld.net/img/content/25/14.gif" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://www.cameronsworld.net/img/content/25/6.gif" />
 <br />
 <img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/marquee.svg" />
