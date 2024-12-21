@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://www.cameronsworld.net/img/content/19/28.gif"/>
-  <img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/hello.gif" />
+  <img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/hello.gif" />
   <img src="https://www.cameronsworld.net/img/content/19/28.gif"/>
 </div>
 <h3 align="center">
@@ -40,30 +40,29 @@
 
 <img src="https://www.cameronsworld.net/img/content/25/6.gif" />
 <br />
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/marquee.svg" />
+<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/marquee.svg" />
 
 ![Visitor Count](https://profile-counter.glitch.me/kshitijsubedi/count.svg)
 
 
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/FreeInternetExplorerBadge.gif" height="30" />
+<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/FreeInternetExplorerBadge.gif" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/YahooBadge.gif" />
+<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/YahooBadge.gif" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/NestscapeNow2.0EnhancedBadge.gif" />
+<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/NestscapeNow2.0EnhancedBadge.gif" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/frontpage-1996.gif" />
+<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/frontpage-1996.gif" height="30" />
 
 </div>
 <br/>
 <br/>
-<div>
+<div width="100%" align="center">
+<img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/pentium-1999.gif" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/pentium-1999.gif" />
+<img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/panasonic-1998.gif" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/panasonic-1998.gif" />
+<img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/match-com-2000.gif" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/match-com-2000.gif" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/output/amazon-2000.gif" />
+<img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/amazon-2000.gif" />
 </div>
