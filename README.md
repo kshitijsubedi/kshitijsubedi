@@ -64,7 +64,6 @@
 <img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/pentium-1999.gif" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/panasonic-1998.gif" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/match-com-2000.gif" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img width="45%" src="https://raw.githubusercontent.com/kshitijsubedi/kshitijsubedi/main/assets/amazon-2000.gif" />
